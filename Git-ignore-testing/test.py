@@ -1,4 +1,4 @@
-x = "version 2.4"
+x = "version 2.6"
 print(x)
 
 
